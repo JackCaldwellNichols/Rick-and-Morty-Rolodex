@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import CharacterList from "./js/component/CharacterList.jsx";
+import CharacterList from "./component/CharacterList.jsx";
 import NavBar from "./js/component/NavBar.jsx";
 import SearchBar from "./js/component/SearchBar.jsx";
 

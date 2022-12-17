@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 
 //import your own components
-import App from "../App.js";
+import App from "./App.js";
 
 //render your react application
 ReactDOM.render(<App />, document.querySelector("#app"));
